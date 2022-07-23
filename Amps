@@ -1,0 +1,13 @@
+1 Amps = How  many Watts , Current ---> fllow of electrons,
+1 Amps is 6.25X 10 is power of 10
+1 Amps = columb of charge /sec
+
+
+Amps = watts /volt     I=P/V
+watts = Amps X volt    P=VXI    Only Dc supply 
+Volt= watts/Amps       V=P/I
+
+
+
+watts = Amps X volt  X P.F             Only single phase Ac supply
+watts = Amps X volt  X P.F X  Root3    Only three phase Ac supply
